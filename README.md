@@ -35,6 +35,17 @@
 
 ---
 
+## Environment Variables & .env.local
+
+- You must manually create a `.env.local` file in your project root to store API keys and other secrets.
+- This file is **not** tracked by git (see `.gitignore`), so your sensitive information remains private.
+- Example contents for `.env.local`:
+  ```
+  ACETIC_API_KEY=your_key_here
+  CHEMICAL_API_KEY=your_key_here
+  NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_key_here
+  ```
+
 ## API Integration
 
 ### 1. Acetic Acid Production Facilities API
@@ -106,3 +117,4 @@ NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_key_here
 - For API documentation, refer to each provider’s official docs.
 - Make sure not to commit your `.env.local` file to version control.
 - If you encounter dependency issues, ensure you’re using `pnpm` and a compatible Node.js version.
+
