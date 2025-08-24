@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**LambCo2You** is a site selection platform designed to help companies identify optimal locations for new facilities based on environmental, logistical, and industrial data. The app aggregates and visualizes data from multiple sources—including global power plant databases, chemical production facilities, and mapping APIs—to support strategic decision-making.
+**LambCo2You** is a site selection platform designed to help companies identify optimal locations for new facilities based on environmental, logistical, and industrial data. The app aggregates and visualizes data from multiple sources(including global power plant databases, chemical production facilities, and mapping APIs) to support strategic decision-making.
 
 ### Who Can Benefit?
 
