@@ -1,5 +1,22 @@
 # LambCo2You
 
+## Project Overview
+
+**LambCo2You** is a site selection platform designed to help companies identify optimal locations for new facilities based on environmental, logistical, and industrial data. The app aggregates and visualizes data from multiple sources—including global power plant databases, chemical production facilities, and mapping APIs—to support strategic decision-making.
+
+### Who Can Benefit?
+
+This platform is ideal for:
+- **Manufacturing companies** seeking new plant locations with access to energy and chemical resources.
+- **Renewable energy firms** analyzing proximity to power infrastructure.
+- **Chemical producers** evaluating supply chain and distribution opportunities.
+- **Logistics and supply chain teams** optimizing routes and facility placement.
+- **Consultants and analysts** performing site feasibility studies for clients in energy, chemicals, and manufacturing.
+
+By integrating real-time data and interactive maps, LambCo2You streamlines the site selection process, reduces research time, and helps organizations make data-driven location decisions.
+
+---
+
 ## Project Setup
 
 ### Prerequisites
